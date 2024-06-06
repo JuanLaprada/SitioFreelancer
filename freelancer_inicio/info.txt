@@ -1,0 +1,4 @@
+480px resolucion para un telefono
+768px resolucion para una tablet
+1140px para una laptop o de escritorio
+1400px para una pantalla mas grande
